@@ -1,0 +1,10 @@
+import pronouncing
+
+# Example word
+word = "debut"
+
+# Get the IPA transcription
+ipa_transcription = pronouncing.phones_for_word(word)
+
+# Display the result
+print(f"{word.capitalize()}: {ipa_transcription[0]}")
