@@ -1,0 +1,20 @@
+1. Write a program to check if a given number is positive, negative, or zero.
+2. Create a script that determines whether a user-inputted year is a leap year.
+3. Implement a function that takes two numbers as input and returns the larger one.
+4. Write a program that classifies a triangle based on its sides' lengths (equilateral, isosceles, or scalene).
+5. Develop a script that checks if a given string is a palindrome.
+6. Create a program to calculate the sum of all numbers from 1 to 100 using a for loop.
+7. Write a script to find the factorial of a given number using a for loop.
+8. Implement a program that prints the Fibonacci sequence up to a specified number using a for loop.
+9. Write a function that takes a list of numbers and returns the sum of even numbers.
+10. Develop a script to print a multiplication table for a given number using a for loop.
+11. Create a guessing game where the user has to guess a number between 1 and 10 using a while loop.
+12. Write a script that calculates the factorial of a given number using a while loop.
+13. Implement a program that finds the square root of a number using a while loop.
+14. Create a simple calculator that performs addition, subtraction, multiplication, and division using a while loop.
+15. Write a script that prints the first N terms of the Fibonacci sequence using a while loop.
+16. Develop a program to find the prime numbers between 1 and 50 using a for loop and break.
+17. Write a script that skips even numbers in a range and prints only odd numbers using continue.
+18. Implement a program that checks if a given number is a perfect square using break and else.
+19. Create a loop that iterates through a list of numbers, and if a negative number is encountered, terminate the loop using break.
+20. Write a program to find and print the factors of a given number using pass for non-factors.
