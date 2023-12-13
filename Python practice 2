@@ -12,3 +12,17 @@
 12. Write a program add.py that takes 2 numbers as command line arguments and prints its sum.
 13. : What will be the output of the following program? x = [0, 1, [2]] x[2][0] = 3 print x x[2].append(4) print x x[2] = 2 print x
 Write a program to give an input as string but print your name
+
+13. : What will be the output of the following program? x = [0, 1, [2]] x[2][0] = 3 print x x[2].append(4) print x x[2] = 2 print x
+14. Python has a built-in function sum to find sum of all elements of a list. Provide an implementation for sum
+15. What happens when the above sum function is called with a list of strings? Can you make your sum function work for a list of strings as well?
+16. Implement a function product, to compute product of a list of numbers
+17. Write a function reverse to reverse a list. Can you do this without using list slicing?
+18. Cumulative sum of a list [a, b, c, ...] is defined as [a, a+b, a+b+c, ...]. Write a function cumulative_sum to compute cumulative sum of a list. Does your implementation work for a list of strings?
+19. Write a function cumulative_product to compute cumulative product of a list of numbers.
+20. Write a function unique to find all the unique elements of a list.
+21. Write a function dups to find all duplicates in the list
+22. Write a function group(list, size) that take a list and splits into smaller lists of given size.
+23. Write a function lensort to sort a list of strings based on length.
+24. Improve the unique function written in previous problems to take an optional key function as argument and use the return value of the key function to check for uniqueness.
+25. Reimplement the unique function implemented in the earlier examples using sets.
