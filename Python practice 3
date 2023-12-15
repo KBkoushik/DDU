@@ -1,0 +1,11 @@
+1. You have the cost price and selling price of a product. Write a function to calculate the profit.
+2. Write a function to get unique elements from a list.
+3. Python program to remove spaces from string without inbuilt function.
+4. What is the difference between a mutable data type and an immutable data type?
+5. How can you replace string space with a given character in Python?
+6. Given a positive integer num, write a function that returns True if num is a perfect square else False.
+7. Write a Python function that classifies a given number into different categories based on the following conditions:
+ 
+If the number is even, print "Even".
+If the number is odd and greater than 10, print "Odd and Greater than 10".
+If the number is odd and less than or equal to 10, print "Odd and Less than or Equal to 10".
