@@ -9,3 +9,14 @@
 If the number is even, print "Even".
 If the number is odd and greater than 10, print "Odd and Greater than 10".
 If the number is odd and less than or equal to 10, print "Odd and Less than or Equal to 10".
+8. Design a Python function calculate_discount that calculates the discount amount based on a purchase amount and a discount percentage.
+If the purchase amount is greater than $100 and the discount percentage is 10% or more, the discount should be applied; otherwise, no discount is applied.
+9. Create a Python program that calculates the ticket price for a zoo based on a visitor's age and category. The pricing rules are as follows:
+For children (ages 3 to 12), the ticket price is $10.
+For adults (ages 13 to 64), the ticket price is $20.
+For seniors (ages 65 and above), the ticket price is $15.
+Additionally, there's a discount of 10% for children and seniors on Sundays.
+10. Create a Python program that calculates discounts based on the total purchase amount. The discount rules are as follows:
+If the total purchase amount is $100 or more, provide a 10% discount.
+If the total purchase amount is less than $100 but at least $50, provide a 5% discount.
+If the total purchase amount is less than $50, no discount is applied.
