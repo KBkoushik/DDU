@@ -20,3 +20,25 @@ Additionally, there's a discount of 10% for children and seniors on Sundays.
 If the total purchase amount is $100 or more, provide a 10% discount.
 If the total purchase amount is less than $100 but at least $50, provide a 5% discount.
 If the total purchase amount is less than $50, no discount is applied.
+
+11. What will be the output of
+hours = input("enter hours: ")
+rateperhr = 10
+print("Your total rate is", int(hours)*rateperhr)
+if the input will be “12”, what will be the output? If the error is there, what is the error? Explain all the things.
+12. What will be the output of
+a = input("enter a number: ")
+b = input("enter another number: ")
+if a>b:
+ print("First number is the largest")
+else:
+ print("Second number is the largest")
+Explain. If a<b logic is there what will be the output? If we will give 2.3331 as a and 2.3335 as b, then what will be the output? If we give “2.3335” and “2.3331” then what will be the output? If any error is there in any case then explain the error.
+13. What will be the output of
+x = 3
+if x == 4:
+  print("Yes")
+else:
+  print("No")
+If the input will be x=”4”, what will be the output? If any error is there then explain.
+14. Create a Python program that calculates the sum of a series based on user input. The series to be summed is of the form 1 - 2 + 3 - 4 + 5 - 6 + ... up to n terms.
